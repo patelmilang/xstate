@@ -113,7 +113,7 @@ function App() {
         <div style={{ display: "flex", flexDirection: "column" }}>
           <h4>
             {" "}
-            You Seleted {selectedCountry},{selectedState},{selectedCity}
+            You Seleted {selectedCity},{selectedState},{selectedCountry}
           </h4>
         </div>
       )}
