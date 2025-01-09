@@ -112,8 +112,8 @@ function App() {
       {selectedCity !== "" && (
         <div style={{ display: "flex", flexDirection: "column" }}>
           <h4>
-            
-            You Seleted {selectedCity},{selectedState},{selectedCountry}
+           
+          You selected {selectedCity}, {selectedState}, {selectedCountry}  
           </h4>
         </div>
       )}
